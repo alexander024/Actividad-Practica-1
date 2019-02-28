@@ -1,0 +1,20 @@
+Ejercicio 1
+1-Analizamos en problema.
+2-Diseñamos la interfaz.
+3-Diseñamos la logica de funcionamiento.
+4-Se creo el diseño a nivel de software.
+5-Desarrollamos el código de funcionamiento.
+6-Se probó el correcto funcionamiento.
+
+Ejercicio 2
+1-Analizamos la problematica planteada.
+2-Diseñar la interfaz.
+3-Buscar información para desarrollar el codigo del conversor.
+4-Programar el metodo para lograr la conversión decimal a romano.
+5-Probamos la aplicación.
+
+Ejercicio 3
+1-Analizar la problematica planteada.
+2-Diseñar los formularios.
+3-Implementar validaciones en los campos.
+4-Probar los formularios.
